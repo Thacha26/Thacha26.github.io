@@ -20,3 +20,15 @@ A continuación, se muestran capturas de la visualización de las páginas web
 - Mi primera página web
     - ![Captura de la primera web](https://github.com/Thacha26/Thacha26.github.io/blob/main/Capturas/Primera_capweb)
 
+    Los links que se encuentran en esta página son completamente funcionales.
+
+- Recreación de Pagina Web
+    -(Aún no hay nada por mostrar)
+
+## Links
+
+- Mi primera página web
+    -https://thacha26.github.io/Primera_web.io/
+
+- Recreación de Pagina Web
+    -(Aún no hay nada por mostrar)
