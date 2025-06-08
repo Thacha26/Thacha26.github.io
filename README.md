@@ -27,8 +27,8 @@ A continuación, se muestran capturas de la visualización de las páginas web
 
 ## Links
 
-- Mi primera página web
-    -https://thacha26.github.io/Primera_web.io/
+- Mi primera página web:
+https://thacha26.github.io/Primera_web/
 
 - Recreación de Pagina Web
     -(Aún no hay nada por mostrar)
