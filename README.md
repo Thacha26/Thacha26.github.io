@@ -21,7 +21,7 @@ A continuación, se muestran capturas de la visualización de las páginas web
     Los links que se encuentran en esta página son completamente funcionales.
 
 - Creación de Pagina Web
-    - ![Captura de la creación de una web](https://github.com/Thacha26/Thacha26.github.io/blob/main/Capturas/Primera_capweb)
+    - ![Captura de la creación de una web](https://github.com/Thacha26/Thacha26.github.io/blob/main/Capturas/image.png)
 
 ## Links
 
