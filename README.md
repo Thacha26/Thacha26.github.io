@@ -4,12 +4,12 @@ En este repositorio se irán subiendo las tareas desarrolladas en el curso de PR
 
 Por el momento las páginas web que se pueden encontar son:
 
-- [X] Mi primera página web (Terminada [X]calificada)
+- [X] Mi primera página web (Terminada [✔️]calificada)
 - [X] Creación de Pagina Web (Terminada [ ]calificada)
 
 ## Estado del proyecto
 
-Completamente terminado
+Completamente terminado ✔️✔️✔️
 
 ## Imágenes
 
