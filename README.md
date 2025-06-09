@@ -4,14 +4,12 @@ En este repositorio se irán subiendo las tareas desarrolladas en el curso de PR
 
 Por el momento las páginas web que se pueden encontar son:
 
-- [X] Mi primera página web (Terminada)
-- [ ] Recreación de Pagina Web (En proceso)
+- [X] Mi primera página web (Terminada [X]calificada)
+- [X] Creación de Pagina Web (Terminada [ ]calificada)
 
 ## Estado del proyecto
 
-En proceso, se requiere terminar la tarea: 
-
-- Recreación de Pagina Web :construction:
+Completamente terminado
 
 ## Imágenes
 
@@ -22,8 +20,8 @@ A continuación, se muestran capturas de la visualización de las páginas web
 
     Los links que se encuentran en esta página son completamente funcionales.
 
-- Recreación de Pagina Web
-    -(Aún no hay nada por mostrar)
+- Creación de Pagina Web
+    - ![Captura de la creación de una web](https://github.com/Thacha26/Thacha26.github.io/blob/main/Capturas/Primera_capweb)
 
 ## Links
 
@@ -31,4 +29,4 @@ A continuación, se muestran capturas de la visualización de las páginas web
 https://thacha26.github.io/Primera_web/
 
 - Recreación de Pagina Web
-    -(Aún no hay nada por mostrar)
+https://thacha26.github.io/Tarea1_RecreacionWeb/
